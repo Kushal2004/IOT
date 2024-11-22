@@ -1,7 +1,7 @@
-streamlit==1.25.0          # Adjust version based on your compatibility
-torch==2.0.1               # Adjust version based on your PyTorch installation
-torchvision==0.15.2        # Matches with your PyTorch version
-opencv-python==4.8.0.74    # OpenCV library for image processing
-Pillow==10.0.0             # Python Imaging Library (PIL)
-numpy==1.24.4              # Library for numerical computations
-matplotlib==3.7.2          # For plotting and visualization
+streamlit==1.25.0          # Requires Python 3.8+
+torch                      # Let pip pick a compatible version
+torchvision                # Matches the PyTorch version
+opencv-python
+Pillow
+numpy
+matplotlib
